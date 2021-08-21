@@ -16,7 +16,4 @@ public class Plate {
     public void moreFood (int food) {
         this.food += food;
     }
-//    public void info () {
-//        System.out.println("Количество еды в миске: " + getFood());
-//    }
 }
